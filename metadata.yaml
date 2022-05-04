@@ -1,0 +1,37 @@
+_repo: Un-Vaincu_67889
+_version: 0.0.1
+creator:
+  author:
+    agent_name: La Brète, Jean de
+    aliases:
+    - Brète, Jean de La
+    - La Brete, Jean de
+    - De La Brète, Jean
+    - Cherbonelle, Alice
+    birthdate: 1854
+    deathdate: 1945
+    gutenberg_agent_id: '25891'
+    url: http://www.gutenberg.org/2009/agents/25891
+    wikipedia: https://fr.wikipedia.org/wiki/Jean_de_La_Br%C3%A8te
+description: ''
+gutenberg_issued: '2022-04-20'
+identifiers:
+  gutenberg: '67889'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bd6t53681029
+pgterms:marc905: 20211111051625labrte
+pgterms:marc906: '1922'
+pgterms:marc907: FR
+production_note: Laurent Vogel and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by the Bibliothèque
+  nationale de France (BnF/Gallica))
+publication_note: France :Nelson,1922.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'French fiction -- 19th century'
+- GITenberg
+title: Un Vaincu
+url: http://www.gutenberg.org/ebooks/67889
