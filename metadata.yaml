@@ -1,5 +1,8 @@
 _repo: Un-Vaincu_67889
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67889-h/images/cover.jpg
 creator:
   author:
     agent_name: La Brète, Jean de
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25891
     wikipedia: https://fr.wikipedia.org/wiki/Jean_de_La_Br%C3%A8te
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67889#Un-Vaincu
 gutenberg_issued: '2022-04-20'
 identifiers:
   gutenberg: '67889'
